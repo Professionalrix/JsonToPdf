@@ -1,0 +1,2 @@
+data,message,status
+"{response_code:001,data:{TransactionDetails:{UniqueID:2,MembershipId:M731099814020211213060252317,uniqueID:2,TransactionDetailsList:[{Status:Success,TransactionType:Balance Inquiry,NetAmount:400,LocationCode:10106609,TransactionCode:30,TransactionStatus:00,SwitchID:,Time:12:44 AM,InvoiceNumber:33333334003126,creditValue:1,Date:20 December, 2021,TransactionDate:2021-12-20 12:44:34}],responseCode:001}},success:true,message:Data fetched successfully}",Fetched Successfully,SUCCESS
